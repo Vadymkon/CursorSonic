@@ -1,0 +1,10 @@
+D:\vadymkon\Проги\CursorSonic\CursorSonic\bin\Release\CursorSonic.exe.config
+D:\vadymkon\Проги\CursorSonic\CursorSonic\bin\Release\CursorSonic.exe
+D:\vadymkon\Проги\CursorSonic\CursorSonic\bin\Release\CursorSonic.pdb
+D:\vadymkon\Проги\CursorSonic\CursorSonic\obj\Release\CursorSonic.csproj.AssemblyReference.cache
+D:\vadymkon\Проги\CursorSonic\CursorSonic\obj\Release\CursorSonic.Form1.resources
+D:\vadymkon\Проги\CursorSonic\CursorSonic\obj\Release\CursorSonic.Properties.Resources.resources
+D:\vadymkon\Проги\CursorSonic\CursorSonic\obj\Release\CursorSonic.csproj.GenerateResource.cache
+D:\vadymkon\Проги\CursorSonic\CursorSonic\obj\Release\CursorSonic.csproj.CoreCompileInputs.cache
+D:\vadymkon\Проги\CursorSonic\CursorSonic\obj\Release\CursorSonic.exe
+D:\vadymkon\Проги\CursorSonic\CursorSonic\obj\Release\CursorSonic.pdb
